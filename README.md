@@ -1,4 +1,4 @@
-# Stylometry for Latin Literary Criticism
+# EvolvingDigitalClassics-2025-Stylometry-Tutorial
 
 Data and code (including tutorial notebooks) for reproducing Bolt et al., “Stylometry for Latin Literary Criticism,” in *Evolving Perspectives on Digital Classics*
 
