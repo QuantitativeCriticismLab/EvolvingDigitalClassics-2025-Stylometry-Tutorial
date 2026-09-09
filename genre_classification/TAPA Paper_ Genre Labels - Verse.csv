@@ -1,0 +1,235 @@
+Author,Work,Genre,File Name
+Plautus,Amphitruo,drama,plautus.amphitruo.txt
+Plautus,Asinaria,drama,plautus.asinaria.txt
+Plautus,Aulularia,drama,plautus.aulularia.txt
+Plautus,Bacchides,drama,plautus.bacchides.txt
+Plautus,Captivi,drama,plautus.captivi.txt
+Plautus,Casina,drama,plautus.casina.txt
+Plautus,Cistellaria,drama,plautus.cistellaria.txt
+Plautus,Curculio,drama,plautus.curculio.txt
+Plautus,Epidicus,drama,plautus.epidicus.txt
+Plautus,Menaechmi,drama,plautus.menaechmi.txt
+Plautus,Mercator,drama,plautus.mercator.txt
+Plautus,Miles Gloriosus,drama,plautus.miles_gloriosus.txt
+Plautus,Mostellaria,drama,plautus.mostellaria.txt
+Plautus,Persa,drama,plautus.persa.txt
+Plautus,Poenulus,drama,plautus.poenulus.txt
+Plautus,Pseudolus,drama,plautus.pseudolus.txt
+Plautus,Rudens,drama,plautus.rudens.txt
+Plautus,Stichus,drama,plautus.stichus.txt
+Plautus,Trinummus,drama,plautus.trinummus.txt
+Plautus,Truculentus,drama,plautus.truculentus.txt
+Seneca the Younger,Agamemnon,drama,seneca.agamemnon.txt
+Seneca the Younger,Hercules Furens,drama,seneca.hercules_furens.txt
+Seneca the Younger,Hercules Oetaeus,drama,seneca.hercules_oetaeus.txt
+Seneca the Younger,Medea,drama,seneca.medea.txt
+Seneca the Younger,Octavia,drama,seneca.octavia.txt
+Seneca the Younger,Oedipus,drama,seneca.oedipus.txt
+Seneca the Younger,Phaedra,drama,seneca.phaedra.txt
+Seneca the Younger,Phoenissae,drama,seneca.phoenissae.txt
+Seneca the Younger,Thyestes,drama,seneca.thyestes.txt
+Seneca the Younger,Troades,drama,seneca.troades.txt
+Terence,Adelphi,drama,terence.adelphi.txt
+Terence,Andria,drama,terence.andria.txt
+Terence,Eunuchus,drama,terence.eunuchus.txt
+Terence,Heautontimorumenos,drama,terence.heautontimorumenos.txt
+Terence,Hecyra,drama,terence.hecyra.txt
+Terence,Phormio,drama,terence.phormio.txt
+Catullus,Poems 65-116 combined,elegy,catullus.carmina.65_116.txt
+Ovid,Amores 1,elegy,ovid.amores.part.1.txt
+Ovid,Amores 2,elegy,ovid.amores.part.2.txt
+Ovid,Amores 3,elegy,ovid.amores.part.3.txt
+Ovid,Ars Amatoria 1,elegy,ovid.ars_amatoria.part.1.txt
+Ovid,Ars Amatoria 2,elegy,ovid.ars_amatoria.part.2.txt
+Ovid,Ars Amatoria 3,elegy,ovid.ars_amatoria.part.3.txt
+Ovid,Epistulae ex Ponto 1,elegy,ovid.ex_ponto.part.1.txt
+Ovid,Epistulae ex Ponto 2,elegy,ovid.ex_ponto.part.2.txt
+Ovid,Epistulae ex Ponto 3,elegy,ovid.ex_ponto.part.3.txt
+Ovid,Epistulae ex Ponto 4,elegy,ovid.ex_ponto.part.4.txt
+Ovid,Fasti 1,elegy,ovid.fasti.part.1.txt
+Ovid,Fasti 2,elegy,ovid.fasti.part.2.txt
+Ovid,Fasti 3,elegy,ovid.fasti.part.3.txt
+Ovid,Fasti 4,elegy,ovid.fasti.part.4.txt
+Ovid,Fasti 5,elegy,ovid.fasti.part.5.txt
+Ovid,Fasti 6,elegy,ovid.fasti.part.6.txt
+Ovid,Heroides 1,elegy,ovid.heroides.part.1.1-15.txt
+Ovid,Heroides 2,elegy,ovid.heroides.part.2.16-21.txt
+Ovid,Ibis,elegy,ovid.ibis.txt
+Ovid,Medicamina Faciei Femineae,elegy,ovid.medicamina_faciei_femineae.txt
+Ovid,Remedia Amoris,elegy,ovid.remedia_amoris.txt
+Ovid,Tristia 1,elegy,ovid.tristia.part.1.txt
+Ovid,Tristia 2,elegy,ovid.tristia.part.2.txt
+Ovid,Tristia 3,elegy,ovid.tristia.part.3.txt
+Ovid,Tristia 4,elegy,ovid.tristia.part.4.txt
+Ovid,Tristia 5,elegy,ovid.tristia.part.5.txt
+Propertius,Elegies (books 1-4 combined),elegy,propertius.elegies.txt
+Rutilius,De Reditu,elegy,rutilius.de_reditu.txt
+Tibullus,Elegies (books 1-4 combined),elegy,tibullus.elegies.txt
+Catullus,Poem 64,epic,catullus.carmina.64.txt
+Claudian,De Bello Gildonico,epic,claudian.de_bello_gildonico.txt
+Claudian,De Bello Gothico,epic,claudian.de_bello_gothico.txt
+Claudian,De Consulatu Stilichonis 1,epic,claudian.de_consulatu_stilichonis.part.1.txt
+Claudian,De Consulatu Stilichonis 2,epic,claudian.de_consulatu_stilichonis.part.2.txt
+Claudian,De Consulatu Stilichonis 3,epic,claudian.de_consulatu_stilichonis.part.3.txt
+Claudian,De Raptu Proserpinae 1,epic,claudian.de_raptu_proserpinae.part.1.txt
+Claudian,De Raptu Proserpinae 2,epic,claudian.de_raptu_proserpinae.part.2.txt
+Claudian,De Raptu Proserpinae 3,epic,claudian.de_raptu_proserpinae.part.3.txt
+Claudian,In Eutropium 1,epic,claudian.in_eutropium.part.1.txt
+Claudian,In Eutropium 2,epic,claudian.in_eutropium.part.2.txt
+Claudian,In Rufinum 1,epic,claudian.in_rufinum.part.1.txt
+Claudian,In Rufinum 2,epic,claudian.in_rufinum.part.2.txt
+Dracontius,Romulea 1,epic,dracontius.romulea.part.1.txt
+Dracontius,Romulea 2,epic,dracontius.romulea.part.2.txt
+Dracontius,Romulea 3,epic,dracontius.romulea.part.3.txt
+Dracontius,Romulea 4,epic,dracontius.romulea.part.4.txt
+Dracontius,Romulea 5,epic,dracontius.romulea.part.5.txt
+Dracontius,Romulea 6,epic,dracontius.romulea.part.6.txt
+Dracontius,Romulea 7,epic,dracontius.romulea.part.7.txt
+Dracontius,Romulea 8,epic,dracontius.romulea.part.8.txt
+Dracontius,Romulea 9,epic,dracontius.romulea.part.9.txt
+Dracontius,Romulea 10,epic,dracontius.romulea.part.10.txt
+Ennius,Annales,epic,ennius.annales.txt
+Italicus,Ilias Latina,epic,italicus.ilias_latina.txt
+Juvencus,Historia Evangelica 1,epic,juvencus.historia_evangelica.part.1.txt
+Juvencus,Historia Evangelica 2,epic,juvencus.historia_evangelica.part.2.txt
+Juvencus,Historia Evangelica 3,epic,juvencus.historia_evangelica.part.3.txt
+Juvencus,Historia Evangelica 4,epic,juvencus.historia_evangelica.part.4.txt
+Lucan,Bellum Civile 1,epic,lucan.bellum_civile.part.1.txt
+Lucan,Bellum Civile 2,epic,lucan.bellum_civile.part.2.txt
+Lucan,Bellum Civile 3,epic,lucan.bellum_civile.part.3.txt
+Lucan,Bellum Civile 4,epic,lucan.bellum_civile.part.4.txt
+Lucan,Bellum Civile 5,epic,lucan.bellum_civile.part.5.txt
+Lucan,Bellum Civile 6,epic,lucan.bellum_civile.part.6.txt
+Lucan,Bellum Civile 7,epic,lucan.bellum_civile.part.7.txt
+Lucan,Bellum Civile 8,epic,lucan.bellum_civile.part.8.txt
+Lucan,Bellum Civile 9,epic,lucan.bellum_civile.part.9.txt
+Lucan,Bellum Civile 10,epic,lucan.bellum_civile.part.10.txt
+Lucretius,De Rerum Natura 1,epic,lucretius.de_rerum_natura.part.1.txt
+Lucretius,De Rerum Natura 2,epic,lucretius.de_rerum_natura.part.2.txt
+Lucretius,De Rerum Natura 3,epic,lucretius.de_rerum_natura.part.3.txt
+Lucretius,De Rerum Natura 4,epic,lucretius.de_rerum_natura.part.4.txt
+Lucretius,De Rerum Natura 5,epic,lucretius.de_rerum_natura.part.5.txt
+Lucretius,De Rerum Natura 6,epic,lucretius.de_rerum_natura.part.6.txt
+Manilius,Astronomicon 1,epic,manilius.astronomicon.part.1.txt
+Manilius,Astronomicon 2,epic,manilius.astronomicon.part.2.txt
+Manilius,Astronomicon 3,epic,manilius.astronomicon.part.3.txt
+Manilius,Astronomicon 4,epic,manilius.astronomicon.part.4.txt
+Manilius,Astronomicon 5,epic,manilius.astronomicon.part.5.txt
+Ovid,Metamorphoses 1,epic,ovid.metamorphoses.part.1.txt
+Ovid,Metamorphoses 2,epic,ovid.metamorphoses.part.2.txt
+Ovid,Metamorphoses 3,epic,ovid.metamorphoses.part.3.txt
+Ovid,Metamorphoses 4,epic,ovid.metamorphoses.part.4.txt
+Ovid,Metamorphoses 5,epic,ovid.metamorphoses.part.5.txt
+Ovid,Metamorphoses 6,epic,ovid.metamorphoses.part.6.txt
+Ovid,Metamorphoses 7,epic,ovid.metamorphoses.part.7.txt
+Ovid,Metamorphoses 8,epic,ovid.metamorphoses.part.8.txt
+Ovid,Metamorphoses 9,epic,ovid.metamorphoses.part.9.txt
+Ovid,Metamorphoses 10,epic,ovid.metamorphoses.part.10.txt
+Ovid,Metamorphoses 11,epic,ovid.metamorphoses.part.11.txt
+Ovid,Metamorphoses 12,epic,ovid.metamorphoses.part.12.txt
+Ovid,Metamorphoses 13,epic,ovid.metamorphoses.part.13.txt
+Ovid,Metamorphoses 14,epic,ovid.metamorphoses.part.14.txt
+Ovid,Metamorphoses 15,epic,ovid.metamorphoses.part.15.txt
+Prudentius,Apotheosis,epic,prudentius.apotheosis.txt
+Prudentius,Contra Symmachum 1,epic,prudentius.contra_symmachum.part.1.txt
+Prudentius,Contra Symmachum 2,epic,prudentius.contra_symmachum.part.2.txt
+Prudentius,Hamartigenia,epic,prudentius.hamartigenia.txt
+Prudentius,Psychomachia,epic,prudentius.psychomachia.txt
+Silius Italicus,Punica 1,epic,silius_italicus.punica.part.1.txt
+Silius Italicus,Punica 2,epic,silius_italicus.punica.part.2.txt
+Silius Italicus,Punica 3,epic,silius_italicus.punica.part.3.txt
+Silius Italicus,Punica 4,epic,silius_italicus.punica.part.4.txt
+Silius Italicus,Punica 5,epic,silius_italicus.punica.part.5.txt
+Silius Italicus,Punica 6,epic,silius_italicus.punica.part.6.txt
+Silius Italicus,Punica 7,epic,silius_italicus.punica.part.7.txt
+Silius Italicus,Punica 8,epic,silius_italicus.punica.part.8.txt
+Silius Italicus,Punica 9,epic,silius_italicus.punica.part.9.txt
+Silius Italicus,Punica 10,epic,silius_italicus.punica.part.10.txt
+Silius Italicus,Punica 11,epic,silius_italicus.punica.part.11.txt
+Silius Italicus,Punica 12,epic,silius_italicus.punica.part.12.txt
+Silius Italicus,Punica 13,epic,silius_italicus.punica.part.13.txt
+Silius Italicus,Punica 14,epic,silius_italicus.punica.part.14.txt
+Silius Italicus,Punica 15,epic,silius_italicus.punica.part.15.txt
+Silius Italicus,Punica 16,epic,silius_italicus.punica.part.16.txt
+Silius Italicus,Punica 17,epic,silius_italicus.punica.part.17.txt
+Statius,Achilleid (books 1 and 2 combined),epic,statius.achilleid.txt
+Statius,Thebaid 1,epic,statius.thebaid.part.1.txt
+Statius,Thebaid 2,epic,statius.thebaid.part.2.txt
+Statius,Thebaid 3,epic,statius.thebaid.part.3.txt
+Statius,Thebaid 4,epic,statius.thebaid.part.4.txt
+Statius,Thebaid 5,epic,statius.thebaid.part.5.txt
+Statius,Thebaid 6,epic,statius.thebaid.part.6.txt
+Statius,Thebaid 7,epic,statius.thebaid.part.7.txt
+Statius,Thebaid 8,epic,statius.thebaid.part.8.txt
+Statius,Thebaid 9,epic,statius.thebaid.part.9.txt
+Statius,Thebaid 10,epic,statius.thebaid.part.10.txt
+Statius,Thebaid 11,epic,statius.thebaid.part.11.txt
+Statius,Thebaid 12,epic,statius.thebaid.part.12.txt
+Valerius Flaccus,Argonautica 1,epic,valerius_flaccus.argonautica.part.1.txt
+Valerius Flaccus,Argonautica 2,epic,valerius_flaccus.argonautica.part.2.txt
+Valerius Flaccus,Argonautica 3,epic,valerius_flaccus.argonautica.part.3.txt
+Valerius Flaccus,Argonautica 4,epic,valerius_flaccus.argonautica.part.4.txt
+Valerius Flaccus,Argonautica 5,epic,valerius_flaccus.argonautica.part.5.txt
+Valerius Flaccus,Argonautica 6,epic,valerius_flaccus.argonautica.part.6.txt
+Valerius Flaccus,Argonautica 7,epic,valerius_flaccus.argonautica.part.7.txt
+Valerius Flaccus,Argonautica 8,epic,valerius_flaccus.argonautica.part.8.txt
+Vergil,Aeneid 1,epic,vergil.aeneid.part.1.txt
+Vergil,Aeneid 2,epic,vergil.aeneid.part.2.txt
+Vergil,Aeneid 3,epic,vergil.aeneid.part.3.txt
+Vergil,Aeneid 4,epic,vergil.aeneid.part.4.txt
+Vergil,Aeneid 5,epic,vergil.aeneid.part.5.txt
+Vergil,Aeneid 6,epic,vergil.aeneid.part.6.txt
+Vergil,Aeneid 7,epic,vergil.aeneid.part.7.txt
+Vergil,Aeneid 8,epic,vergil.aeneid.part.8.txt
+Vergil,Aeneid 9,epic,vergil.aeneid.part.9.txt
+Vergil,Aeneid 10,epic,vergil.aeneid.part.10.txt
+Vergil,Aeneid 11,epic,vergil.aeneid.part.11.txt
+Vergil,Aeneid 12,epic,vergil.aeneid.part.12.txt
+Vergil,Georgics 1,epic,vergil.georgics.part.1.txt
+Vergil,Georgics 2,epic,vergil.georgics.part.2.txt
+Vergil,Georgics 3,epic,vergil.georgics.part.3.txt
+Vergil,Georgics 4,epic,vergil.georgics.part.4.txt
+Anonymous,Laudes Domini,miscellaneous,anonymous.laudes_domini.txt
+Catullus,Poems 1-63 combined,miscellaneous,catullus.carmina1_63.txt
+Claudian,Carmina Minora,miscellaneous,claudian.carmina_minora.txt
+Claudian,Epithalamium De Nuptiis Honorii Augusti,miscellaneous,claudian.epithalamium_de_nuptiis_honorii_augusti.txt
+Claudian,In Consulatum Olybrii et Probini,miscellaneous,claudian.in_consulatum_olybrii_et_probini.txt
+Claudian,Panegyricus De Quatro Consulatu Honorii Augusti,miscellaneous,claudian.panegyricus_de_quarto_consulatu_honorii_augusti.txt
+Claudian,Panegyricus De Sexto Consulatu Honorii Augusti,miscellaneous,claudian.panegyricus_de_sexto_consulatu_honorii_augusti.txt
+Claudian,Panegyricus De Tertio Consulatu Honorii Augusti,miscellaneous,claudian.panegyricus_de_tertio_consulatu_honorii_augusti.txt
+Claudian,Panegyricus Dictus Manlio Theodoro Consuli,miscellaneous,claudian.panegyricus_dictus_manlio_theodoro_consuli.txt
+Ennodius,Carmina (books 1 and 2 combined),miscellaneous,ennodius.carmina.txt
+Horace,Ars Poetica,miscellaneous,horace.ars_poetica.txt
+Horace,Carmen Saeculare,miscellaneous,horace.carmen_saeculare.txt
+Horace,Epistles,miscellaneous,horace.epistles.txt
+Horace,Epodes,miscellaneous,horace.epodes.txt
+Horace,Odes 1,miscellaneous,horace.odes.part.1.txt
+Horace,Odes 2,miscellaneous,horace.odes.part.2.txt
+Horace,Odes 3,miscellaneous,horace.odes.part.3.txt
+Horace,Odes 4,miscellaneous,horace.odes.part.4.txt
+Horace,Satires,miscellaneous,horace.satires.txt
+Juvenal,Satires,miscellaneous,juvenal.satires.txt
+Martial,Epigrams 1,miscellaneous,martial.epigrams.part.1.txt
+Martial,Epigrams 2,miscellaneous,martial.epigrams.part.2.txt
+Martial,Epigrams 3,miscellaneous,martial.epigrams.part.3.txt
+Martial,Epigrams 4,miscellaneous,martial.epigrams.part.4.txt
+Martial,Epigrams 5,miscellaneous,martial.epigrams.part.5.txt
+Martial,Epigrams 6,miscellaneous,martial.epigrams.part.6.txt
+Martial,Epigrams 7,miscellaneous,martial.epigrams.part.7.txt
+Martial,Epigrams 8,miscellaneous,martial.epigrams.part.8.txt
+Martial,Epigrams 9,miscellaneous,martial.epigrams.part.9.txt
+Martial,Epigrams 10,miscellaneous,martial.epigrams.part.10.txt
+Martial,Epigrams 11,miscellaneous,martial.epigrams.part.11.txt
+Martial,Epigrams 12,miscellaneous,martial.epigrams.part.12.txt
+Martial,Epigrams 13,miscellaneous,martial.epigrams.part.13.txt
+Martial,Epigrams 14,miscellaneous,martial.epigrams.part.14.txt
+Persius,Satires,miscellaneous,persius.satires.txt
+Phaedrus,Fabulae,miscellaneous,phaedrus.fabulae_aesopiae.txt
+Prudentius,Dittochaeon,miscellaneous,prudentius.dittochaeon.txt
+Prudentius,Epilogus,miscellaneous,prudentius.epilogus.txt
+Statius,Silvae 1,miscellaneous,statius.silvae.part.1.txt
+Statius,Silvae 2,miscellaneous,statius.silvae.part.2.txt
+Statius,Silvae 3,miscellaneous,statius.silvae.part.3.txt
+Statius,Silvae 4,miscellaneous,statius.silvae.part.4.txt
+Statius,Silvae 5,miscellaneous,statius.silvae.part.5.txt
+Vergil,Eclogues,miscellaneous,vergil.eclogues.txt

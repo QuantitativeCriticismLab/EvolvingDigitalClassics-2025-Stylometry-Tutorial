@@ -1,0 +1,36 @@
+Plautus Amphitruo
+Plautus Asinaria
+Plautus Aulularia
+Plautus Bacchides
+Plautus Captivi
+Plautus Casina
+Plautus Cistellaria
+Plautus Curculio
+Plautus Epidicus
+Plautus Menaechmi
+Plautus Mercator
+Plautus Miles Gloriosus
+Plautus Mostellaria
+Plautus Persa
+Plautus Poenulus
+Plautus Pseudolus
+Plautus Rudens
+Plautus Stichus
+Plautus Trinummus
+Plautus Truculentus
+Seneca Agamemnon
+Seneca Hercules Furens
+Seneca Hercules Oetaeus
+Seneca Medea
+Seneca Octavia
+Seneca Oedipus
+Seneca Phaedra
+Seneca Phoenissae
+Seneca Thyestes
+Seneca Troades
+Terence Adelphi
+Terence Andria
+Terence Eunuchus
+Terence Heautontimorumenos
+Terence Hecyra
+Terence Phormio

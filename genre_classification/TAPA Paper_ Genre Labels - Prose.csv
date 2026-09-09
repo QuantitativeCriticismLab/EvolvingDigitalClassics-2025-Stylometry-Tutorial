@@ -1,0 +1,357 @@
+Author,Work,Genre,File Name
+Augustine,Epistulae (1-10),epistolography,augustine.epistulae_1_10.part.1.txt
+Augustine,Epistulae (11-20),epistolography,augustine.epistulae_11_20.part.2.txt
+Augustine,Epistulae (21-30),epistolography,augustine.epistulae_21_30.part.3.txt
+Augustine,Epistulae (31-40),epistolography,augustine.epistulae_31_40.part.4.txt
+Augustine,Epistulae (41-50),epistolography,augustine.epistulae_41_50.part.5.txt
+Augustine,Epistulae (51-62),epistolography,augustine.epistulae_51_62.part.6.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.1.ad_lentulum.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.2.ad_curionem_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.3.ad_claudium_pulchrum.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.4.ad_sulpicium_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.5.ad_metellum_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.6.ad_torquatum_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.7.ad_marium_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.8.caeli_epistulae_ad_ciceronem.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.9.ad_varronem_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.10.ad_plancum_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.11.at_brutum_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.12.ad_cassium_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.13.ad_memmium_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.14.ad_terentiam_uxorem.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.15.ad_senatum_et_ceteros.txt
+Cicero,Epistulae Ad Familiares,epistolography,cicero.epistulae_ad_familiares.part.16.ad_tironem.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.1.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.2.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.3.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.4.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.5.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.6.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.7.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.8.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.9.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.10.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.11.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.12.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.13.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.14.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.15.txt
+Cicero,Epistulae ad Atticum,epistolography,cicero.letters_to_atticus.part.16.txt
+Cicero,Epistulae ad Brutum,epistolography,cicero.letters_to_brutus.txt
+Cicero,Epistulae ad Quintum Fratrem,epistolography,cicero.letters_to_quintus.txt
+Jerome,"Epistulae selections (letters 1, 7, 14, 22, 38, 40, 43, 44, 45, 52, 54, 60, 77, 107, 117, 125, 127, 128 combined)",epistolography,jerome.epistulae.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.1.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.2.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.3.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.4.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.5.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.6.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.7.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.8.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.9.txt
+Pliny the Younger,Epistulae,epistolography,pliny_the_younger.letters.part.10.txt
+Seneca the Younger,Epistulae ad Lucilium (1-10),epistolography,seneca.ad_lucilium_epistulae_morales.part.1.1-10.txt
+Seneca the Younger,Epistulae ad Lucilium (11-20),epistolography,seneca.ad_lucilium_epistulae_morales.part.2.11-20.txt
+Seneca the Younger,Epistulae ad Lucilium (21-30),epistolography,seneca.ad_lucilium_epistulae_morales.part.3.21-30.txt
+Seneca the Younger,Epistulae ad Lucilium (31-40),epistolography,seneca.ad_lucilium_epistulae_morales.part.4.31-40.txt
+Seneca the Younger,Epistulae ad Lucilium (41-50),epistolography,seneca.ad_lucilium_epistulae_morales.part.5.41-50.txt
+Seneca the Younger,Epistulae ad Lucilium (51-60),epistolography,seneca.ad_lucilium_epistulae_morales.part.6.51-60.txt
+Seneca the Younger,Epistulae ad Lucilium (61-70),epistolography,seneca.ad_lucilium_epistulae_morales.part.7.61-70.txt
+Seneca the Younger,Epistulae ad Lucilium (71-80),epistolography,seneca.ad_lucilium_epistulae_morales.part.8.71-80.txt
+Seneca the Younger,Epistulae ad Lucilium (81-90),epistolography,seneca.ad_lucilium_epistulae_morales.part.9.81-90.txt
+Seneca the Younger,Epistulae ad Lucilium (91-100),epistolography,seneca.ad_lucilium_epistulae_morales.part.10.91-100.txt
+Seneca the Younger,Epistulae ad Lucilium (101-110),epistolography,seneca.ad_lucilium_epistulae_morales.part.11.101-110.txt
+Seneca the Younger,Epistulae ad Lucilium (111-120),epistolography,seneca.ad_lucilium_epistulae_morales.part.12.111-120.txt
+Seneca the Younger,Epistulae ad Lucilium (121-124),epistolography,seneca.ad_lucilium_epistulae_morales.part.13.121-124.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.14.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.15.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.16.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.17.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.18.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.19.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.20.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.21.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.22.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.23.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.24.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.25.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.26.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.27.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.28.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.29.txt
+Ammianus,Rerum Gestarum,historiography,ammianus.rerum_gestarum.part.30.txt
+Augustus Caesar,Res Gestae Divi Augusti,historiography,ammianus.rerum_gestarum.part.31.txt
+Julius Caesar,De Bello Civili,historiography,caesar_augustus.res_gestae_divi_augusti.txt
+Julius Caesar,De Bello Civili,historiography,caesar.de_bello_civili.part.1.txt
+Julius Caesar,De Bello Civili,historiography,caesar.de_bello_civili.part.2.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_civili.part.3.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.1.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.2.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.3.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.4.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.5.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.6.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.7.txt
+Julius Caesar,De Bello Gallico,historiography,caesar.de_bello_gallico.part.8.txt
+Curtius Rufus,Historiae Alexandri Magni,historiography,curtius_rufus.historiae_alexandri_magni.txt
+Florus,Epitomae De Tito Livio Bellorum Omnium Annorum DCC,historiography,florus.epitome_bellorum_omnium_annorum.txt
+Livy,Ab Urbe Condita (Books 1-10),historiography,livy.ab_urbe_condita.part.1.books_1-10.txt
+Livy,Ab Urbe Condita (Books 21-30),historiography,livy.ab_urbe_condita.part.2.books_21-30.txt
+Livy,Ab Urbe Condita (Books 31-40),historiography,livy.ab_urbe_condita.part.3.books_31-40.txt
+Livy,Ab Urbe Condita (Books 41-45),historiography,livy.ab_urbe_condita.part.4.books_41-45.txt
+Nepos,Vitae,historiography,nepos.vitae.txt
+Sallust,Catilina,historiography,sallust.catilina.txt
+Sallust,Historiae,historiography,sallust.histories.txt
+Sallust,Jugurtha,historiography,sallust.jugurtha.txt
+Scriptores Historiae Augustae,Historia Augusta (Books 1-5),historiography,scriptores_historiae_augustae.historia_augusta.part.1.books_1-5.txt
+Scriptores Historiae Augustae,Historia Augusta (Books 6-10),historiography,scriptores_historiae_augustae.historia_augusta.part.2.books_6-10.txt
+Scriptores Historiae Augustae,Historia Augusta (Books 11-15),historiography,scriptores_historiae_augustae.historia_augusta.part.3.books_11-15.txt
+Scriptores Historiae Augustae,Historia Augusta (Books 16-21),historiography,scriptores_historiae_augustae.historia_augusta.part.4.books_16-21.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.1.julius.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.2.augustus.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.3.tiberius.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.4.caligula.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.5.claudius.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.6.nero.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.7.galba.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.8.otho.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.9.vitellius.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.10.vespasian.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.11.titus.txt
+Suetonius,De Vita Caesarum,historiography,suetonius.de_vita_caesarum.part.12.domitian.txt
+Tacitus,Agricola,historiography,tacitus.agricola.txt
+Tacitus,Annales,historiography,tacitus.annales.part.1.txt
+Tacitus,Annales,historiography,tacitus.annales.part.2.txt
+Tacitus,Annales,historiography,tacitus.annales.part.3.txt
+Tacitus,Annales,historiography,tacitus.annales.part.4.txt
+Tacitus,Annales,historiography,tacitus.annales.part.5.txt
+Tacitus,Annales,historiography,tacitus.annales.part.6.txt
+Tacitus,Annales,historiography,tacitus.annales.part.11.txt
+Tacitus,Annales,historiography,tacitus.annales.part.12.txt
+Tacitus,Annales,historiography,tacitus.annales.part.13.txt
+Tacitus,Annales,historiography,tacitus.annales.part.14.txt
+Tacitus,Annales,historiography,tacitus.annales.part.15.txt
+Tacitus,Annales,historiography,tacitus.annales.part.16.txt
+Tacitus,De Origine et Situ Germanorum,historiography,tacitus.de_origine_et_situ_germanorum_liber.txt
+Tacitus,Historiae,historiography,tacitus.historiae.part.1.txt
+Tacitus,Historiae,historiography,tacitus.historiae.part.2.txt
+Tacitus,Historiae,historiography,tacitus.historiae.part.3.txt
+Tacitus,Historiae,historiography,tacitus.historiae.part.4.txt
+Tacitus,Historiae,historiography,tacitus.historiae.part.5.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.1.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.2.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.3.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.4.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.5.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.6.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.7.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.8.txt
+Valerius Maximus,Facta et Dicta Memorabilia,historiography,valerius_maximus.facta_et_dicta_memorabilia.part.9.txt
+Apuleius,Apologia,oratory,apuleius.apologia.txt
+Apuleius,Florida,oratory,apuleius.florida.txt
+Cicero,Cum Populo Gratias Egit,oratory,cicero.cum_populo_gratias_egit.txt
+Cicero,De Domo Sua,oratory,cicero.de_domo_sua.txt
+Cicero,De Imperio Cn. Pompei,oratory,cicero.de_imperio_cn_pompei.txt
+Cicero,De Lege Agraria Contra Rullum,oratory,cicero.de_lege_agraria_contra_rullum.txt
+Cicero,De Provinciis Consularibus,oratory,cicero.de_provinciis_consularibus.txt
+Cicero,Divinatio in C. Verrem (1),oratory,cicero.divinatio_in_c_verrem.part.1.txt
+Cicero,Divinatio in C. Verrem (2.1),oratory,cicero.divinatio_in_c_verrem.part.2.txt
+Cicero,Divinatio in C. Verrem (2.2),oratory,cicero.divinatio_in_c_verrem.part.3.txt
+Cicero,Divinatio in C. Verrem (2.3),oratory,cicero.divinatio_in_c_verrem.part.4.txt
+Cicero,Divinatio in C. Verrem (2.4),oratory,cicero.divinatio_in_c_verrem.part.5.txt
+Cicero,Divinatio in C. Verrem (2.5),oratory,cicero.divinatio_in_c_verrem.part.6.txt
+Cicero,Divinatio in Q. Caecilium,oratory,cicero.divinatio_in_q_caecilium.txt
+Cicero,In Catilinam,oratory,cicero.in_catilinam.txt
+Cicero,In L. Pisonem,oratory,cicero.in_l_pisonem.txt
+Cicero,In Vatinium,oratory,cicero.in_vatinium.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.1.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.2.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.3.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.4.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.5.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.6.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.7.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.8.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.9.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.10.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.11.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.12.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.13.txt
+Cicero,Philippicae,oratory,cicero.philippicae.part.14.txt
+Cicero,Post Reditum in Senatu,oratory,cicero.post_reditum_in_senatu.txt
+Cicero,Pro A. Caecina,oratory,cicero.pro_a_caecina.txt
+Cicero,Pro A. Cluentio,oratory,cicero.pro_a_cluentio.txt
+Cicero,Pro Archia,oratory,cicero.pro_archia.txt
+Cicero,Pro Balbo,oratory,cicero.pro_balbo.txt
+Cicero,Pro C. Rabirio,oratory,cicero.pro_c_rabirio_perduellionis_reo.txt
+Cicero,Pro C. Rabirio Postumo,oratory,cicero.pro_c_rabirio_postumo.txt
+Cicero,Pro Fonteio,oratory,cicero.pro_fonteio.txt
+Cicero,Pro L. Flacco,oratory,cicero.pro_l_flacco.txt
+Cicero,Pro Ligario,oratory,cicero.pro_ligario.txt
+Cicero,Pro M. Caelio,oratory,cicero.pro_m_caelio.txt
+Cicero,Pro Marcello,oratory,cicero.pro_marcello.txt
+Cicero,Pro Milone,oratory,cicero.pro_milone.txt
+Cicero,Pro Murena,oratory,cicero.pro_murena.txt
+Cicero,Pro Plancio,oratory,cicero.pro_plancio.txt
+Cicero,Pro Publio Quinctio,oratory,cicero.pro_publio_quinctio.txt
+Cicero,Pro Q. Roscio Comoedo,oratory,cicero.pro_q_roscio_comoedo.txt
+Cicero,Pro Rege Deiotaro,oratory,cicero.pro_rege_deiotaro.txt
+Cicero,Pro S. Roscio,oratory,cicero.pro_s_roscio.txt
+Cicero,Pro Scauro,oratory,cicero.pro_scauro.txt
+Cicero,Pro Sestio,oratory,cicero.pro_sestio.txt
+Cicero,Pro Sulla,oratory,cicero.pro_sulla.txt
+Cicero,Pro Tullio,oratory,cicero.pro_tullio.txt
+Pseudo-Cicero,In Sallustium,oratory,cicero_pseudo.in_sallustium.txt
+Pseudo-Quintilian,Declamationes Maiores,oratory,quintilian_pseudo.major_declamations.txt
+Seneca the Elder,Controverisae (Book 1),oratory,seneca_the_elder.controversiae.part.1.txt
+Seneca the Elder,Controversiae (Book 2),oratory,seneca_the_elder.controversiae.part.2.txt
+Seneca the Elder,Controverisae (Book 7),oratory,seneca_the_elder.controversiae.part.7.txt
+Seneca the Elder,Controverisae (Book 8),oratory,seneca_the_elder.controversiae.part.8.txt
+Seneca the Elder,Controverisae (Book 10),oratory,seneca_the_elder.controversiae.part.10.txt
+Seneca the Elder,Excerpta Controversiae,oratory,seneca_the_elder.excerpta_controversiae.txt
+Seneca the Elder,Fragmenta,oratory,seneca_the_elder.fragmenta.txt
+Seneca the Elder,Suasoriae,oratory,seneca_the_elder.suasoriae.txt
+Cicero,Academica,philosophy,cicero.academica.txt
+Cicero,Brutus,philosophy,cicero.brutus.txt
+Cicero,De Amicitia,philosophy,cicero.de_amicitia.txt
+Cicero,De Divinatione,philosophy,cicero.de_divinatione.txt
+Cicero,De Fato,philosophy,cicero.de_fato.txt
+Cicero,De Finibus Bonorum et Malorum,philosophy,cicero.de_finibus_bonorum_et_malorum.part.1.txt
+Cicero,De Finibus Bonorum et Malorum,philosophy,cicero.de_finibus_bonorum_et_malorum.part.2.txt
+Cicero,De Finibus Bonorum et Malorum,philosophy,cicero.de_finibus_bonorum_et_malorum.part.3.txt
+Cicero,De Finibus Bonorum et Malorum,philosophy,cicero.de_finibus_bonorum_et_malorum.part.4.txt
+Cicero,De Finibus Bonorum et Malorum,philosophy,cicero.de_finibus_bonorum_et_malorum.part.5.txt
+Cicero,De Haruspicum Responso,philosophy,cicero.de_haruspicum_responso.txt
+Cicero,De Natura Deorum,philosophy,cicero.de_natura_deorum.part.1.txt
+Cicero,De Natura Deorum,philosophy,cicero.de_natura_deorum.part.2.txt
+Cicero,De Natura Deorum,philosophy,cicero.de_natura_deorum.part.3.txt
+Cicero,De Officiis,philosophy,cicero.de_officiis.part.1.txt
+Cicero,De Officiis,philosophy,cicero.de_officiis.part.2.txt
+Cicero,De Officiis,philosophy,cicero.de_officiis.part.3.txt
+Cicero,De Optimo Genere Oratorum,philosophy,cicero.de_optimo_genere_oratorum.txt
+Cicero,De Oratore,philosophy,cicero.de_oratore.part.1.txt
+Cicero,De Oratore,philosophy,cicero.de_oratore.part.2.txt
+Cicero,De Oratore,philosophy,cicero.de_oratore.part.3.txt
+Cicero,De Republica,philosophy,cicero.de_republica.txt
+Cicero,De Senectute,philosophy,cicero.de_senectute.txt
+Cicero,Lucullus,philosophy,cicero.lucullus.txt
+Cicero,Orator,philosophy,cicero.orator.txt
+Cicero,Paradoxa Stoicorum ad M Brutum,philosophy,cicero.paradoxa_stoicorum_ad_m_brutum.txt
+Cicero,Timaeus,philosophy,cicero.timaeus.txt
+Cicero,Topica,philosophy,cicero.topica.txt
+Cicero,Tusculanae Disputationes,philosophy,cicero.tusculanae_disputationes.part.1.txt
+Cicero,Tusculanae Disputationes,philosophy,cicero.tusculanae_disputationes.part.2.txt
+Cicero,Tusculanae Disputationes,philosophy,cicero.tusculanae_disputationes.part.3.txt
+Cicero,Tusculanae Disputationes,philosophy,cicero.tusculanae_disputationes.part.4.txt
+Cicero,Tusculanae Disputationes,philosophy,cicero.tusculanae_disputationes.part.5.txt
+Marcus Minucius Felix,Octavius,philosophy,marcus_mincuius_felix.octavius.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.1.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.2.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.3.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.4.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.5.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.6.txt
+Seneca the Younger,De Beneficiis,philosophy,seneca.de_beneficiis.part.7.txt
+Seneca the Younger,De Brevitate Vitae,philosophy,seneca.de_brevitate_vitae.txt
+Seneca the Younger,De Clementia,philosophy,seneca.de_clementia.txt
+Seneca the Younger,De Consolatione ad Helviam,philosophy,seneca.de_consolatione_ad_helviam.txt
+Seneca the Younger,De Consolatione ad Marciam,philosophy,seneca.de_consolatione_ad_marciam.txt
+Seneca the Younger,De Consolatione ad Polybium,philosophy,seneca.de_consolatione_ad_polybium.txt
+Seneca the Younger,De Constantia,philosophy,seneca.de_constantia.txt
+Seneca the Younger,De Ira,philosophy,seneca.de_ira.txt
+Seneca the Younger,De Otio,philosophy,seneca.de_otio.txt
+Seneca the Younger,De Providentia,philosophy,seneca.de_providentia.txt
+Seneca the Younger,De Tranquillitate Animi,philosophy,seneca.de_tranquillitate_animi.txt
+Seneca the Younger,De Vita Beata,philosophy,seneca.de_vita_beata.txt
+Tacitus,Dialogus De Oratoribus,philosophy,tacitus.dialogus_de_oratoribus.txt
+Tertullian,Apologeticum,philosophy,tertullian.apologeticum.txt
+Tertullian,De Spectaculis,philosophy,tertullian.de_spectaculis.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.1.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.2.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.3.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.4.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.5.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.6.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.7.txt
+Celsus,De Medicina,technical treatise,celsus.de_medicina.part.8.txt
+Cicero,De Inventione,technical treatise,cicero.de_inventione.part.1.txt
+Cicero,De Inventione,technical treatise,cicero.de_inventione.part.2.txt
+Cicero,De Partitione Oratoria,technical treatise,cicero.de_partitione_oratoria.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.1.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.2.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.3.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.4.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.5.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.6.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.7.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.8.txt
+Columella,De Re Rustica (Books 1-9 only),technical treatise,columella.de_re_rustica.part.9.txt
+Quintus Cicero,On Running for Consul,technical treatise,q_cicero.on_running_for_consul.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.1.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.2.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.3.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.4.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.5.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.6.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.7.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.8.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.9.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.10.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.11.txt
+Quintilian,Institutio Oratoria,technical treatise,quintilian.institutio_oratoria.part.12.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.1.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.2.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.3.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.4.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.5.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.6.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.7.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.8.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.9.txt
+Vitruvius,De Architectura,technical treatise,vitruvius.de_architectura.part.10.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.1.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.2.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.3.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.4.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.5.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.6.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.7.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.8.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.9.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.10.txt
+Apuleius,Metamorphoses,miscellaneous,apuleius.metamorphoses.part.11.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.1.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.2.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.3.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.4.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.5.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.6.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.7.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.8.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.9.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.10.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.11.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.12.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.13.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.14.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.15.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.16.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.17.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.18.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.19.txt
+Gellius,Noctes Atticae,miscellaneous,gellius.attic_nights.part.20.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.1.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.2.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.3.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.4.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.5.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.6.txt
+Macrobius,Saturnalia,miscellaneous,macrobius.saturnalia.part.7.txt
+Petronius,Satyricon,miscellaneous,petronius.satyricon.txt
+Pliny the Elder,Naturalis Historia (books 1-5),miscellaneous,pliny_the_elder.naturalis_historia.part.1.books_1-5.txt
+Pliny the Elder,Naturalis Historia (books 6-10),miscellaneous,pliny_the_elder.naturalis_historia.part.2.books_6-10.txt
+Pliny the Elder,Naturalis Historia (books 11-15),miscellaneous,pliny_the_elder.naturalis_historia.part.3.books_11-15.txt
+Pliny the Elder,Naturalis Historia (books 16-20),miscellaneous,pliny_the_elder.naturalis_historia.part.4.books_16-20.txt
+Pliny the Elder,Naturalis Historia (books 21-25),miscellaneous,pliny_the_elder.naturalis_historia.part.5.books_21-25.txt
+Pliny the Elder,Naturalis Historia (books 26-30),miscellaneous,pliny_the_elder.naturalis_historia.part.6.books_26-30.txt
+Pliny the Elder,Naturalis Historia (books 31-37),miscellaneous,pliny_the_elder.naturalis_historia.part.7.books_31-37.txt
